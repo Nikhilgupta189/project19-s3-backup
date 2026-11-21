@@ -1,0 +1,6 @@
+bucket-name.txt
+cron-output.log
+logs/
+*.pem
+*.key
+.env
